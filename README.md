@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm İrem! 👋
 
-<!--
-**iremakbas-34/iremakbas-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Software Engineering Double Major Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+📊 Exploring Data Science & Data Analytics
+
+🧠 Passionate about Algorithms, Problem Solving & Software Development
+
+🌍 Aspiring Global Software Engineer
+
+---
+
+🎯 My Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Data Analytics
+- Software Engineering
+- Algorithms and Data Structures
+
+🚀 My Goals
+
+- Build meaningful software projects
+- Develop strong technical skills
+- Contribute to open-source projects
+- Pursue an international career in technology
